@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**niccolomineo/niccolomineo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+{
+    "Niccolò Mineo": {
+        🌍: <a href="https://niccolomineo.com/" target="_blank">website</a>,
+        👨🏻‍🎨: <a href="https://dribbble.com/niccolomineo" target="_blank">design</a>,
+        👨🏻‍💻: <a href="https://niccolomineo.com/articles/" target="_blank">articles</a>,
+        👨🏻‍💼: <a href="https://linkedin.com/in/niccolomineo" target="_blank">profile</a>,
+        🛍: <a href="https://niccolomineo.com/shop/" target="_blank">shop</a>,
+    }
+}
+</pre>
